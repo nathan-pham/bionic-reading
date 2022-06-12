@@ -4,4 +4,5 @@
 Better and faster reading. Implementation of [Bionic Reading](https://bionic-reading.com/) in extension form.
 
 ## Screenshots
-![](2022-06-11-18-11-08.png)
+<img src="screenshots/2022-06-11-18-11-08.png" width="200"/>
+![](screenshots/2022-06-11-18-12-44.png)
