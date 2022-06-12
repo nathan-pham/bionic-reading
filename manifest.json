@@ -1,6 +1,6 @@
 {
-    "name": "Nuke",
-    "description": "Safely and securely store nuke codes",
+    "name": "Bionic Reading",
+    "description": "Better and faster reading",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
