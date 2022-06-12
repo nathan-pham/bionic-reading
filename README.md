@@ -5,4 +5,5 @@ Better and faster reading. Implementation of [Bionic Reading](https://bionic-rea
 
 ## Screenshots
 <img src="screenshots/2022-06-11-18-11-08.png" width="200"/>
+
 ![](screenshots/2022-06-11-18-12-44.png)
