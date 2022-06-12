@@ -1,0 +1,54 @@
+#app {
+    padding: 0 2rem;
+}
+
+.logo {
+    margin: 2rem 0 0 0;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.logo img {
+    height: 32px;
+    width: 32px;
+}
+
+p {
+    margin: 0.75rem 0 0 0;
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+}
+
+button {
+    margin-top: 2rem;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    outline: none;
+    border-radius: 0.5rem;
+    border: none;
+    cursor: pointer;
+    background-color: #85e08d;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #6adc7d;
+}
+
+.input {
+    margin-top: 1rem;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer {
+    padding: 2rem;
+    text-align: center;
+    color: #555;
+    font-size: 1rem;
+}

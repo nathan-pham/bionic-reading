@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="icon" href="/favicon.ico" />
+        <title>Bionic Reading</title>
+
+        <link rel="stylesheet" href="/css/globals.css" />
+        <link rel="stylesheet" href="/css/index.css" />
+
+        <script type="module" src="/js/app.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            <h1 class="logo">
+                <img
+                    src="/assets/apple-touch-icon.png"
+                    alt="Bionic Reading Logo"
+                />
+                Bionic Reading
+            </h1>
+            <p>Enhance your reading speed and comprehension.</p>
+
+            <button>Enable</button>
+
+            <div class="input">
+                <input
+                    type="range"
+                    id="fixation"
+                    name="fixation"
+                    min="1"
+                    max="5"
+                />
+                <label for="fixation">Fixation</label>
+            </div>
+
+            <div class="input">
+                <input
+                    type="range"
+                    id="saccades"
+                    name="saccades"
+                    min="0"
+                    max="4"
+                />
+                <label for="saccades">Saccades</label>
+            </div>
+
+            <footer>Made by Nathan Pham</footer>
+        </div>
+    </body>
+</html>
